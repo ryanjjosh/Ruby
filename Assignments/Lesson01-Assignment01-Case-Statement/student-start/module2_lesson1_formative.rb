@@ -1,4 +1,4 @@
-some_var = false
+some_var = "false"
 another_var = "nil"
 
 case
