@@ -121,7 +121,7 @@ person11.name1 = "Mike"
 person11.age1 = 15
 puts person11.name1 # => Mike
 puts person11.age1  # => 15
-person11.age1 = "fifteen"
+person11.age1 = 20
 puts person11.age1 # => fifteen
 puts
 
